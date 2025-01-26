@@ -1,10 +1,12 @@
-# Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models
+# 2025: Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models
 
 [Paper](https://arxiv.org/abs/2501.01034), [Datasets](https://huggingface.co/datasets/MERaLiON/Multitask-National-Speech-Corpus-v1)
 
 ## Overview
 
-Singlish, a Creole language rooted in English, is prominent in Singapore's multilingual and multicultural landscape. Despite its widespread use, the spoken form of Singlish remains underexplored, limiting insights into its linguistic structure and applications. This project addresses this gap by standardizing and annotating the largest spoken Singlish corpus and introducing **SingAudioLLM**, a multimodal model designed for diverse Singlish spoken understanding tasks.
+Singlish, a Creole language rooted in English, is prominent in Singapore's multilingual and multicultural landscape. Despite its widespread use, the spoken form of Singlish remains underexplored, limiting insights into its linguistic structure and applications. This project addresses this gap by standardizing and annotating the largest spoken Singlish corpus from National Speech Corpus.
+
+The original National Speech Corpus is consisted of 10k hours of speech and transcriptions. In our first release, we reorganized and released the high quality ones and extended to multitask datasets and standard train/test split.
 
 ## Multitask National Speech Corpus (MNSC)
 
@@ -20,7 +22,7 @@ The dataset includes standardized splits and a human-verified test set to facili
 
 ## Other Singlish Corpus
 
-- [SEAME](https://catalog.ldc.upenn.edu/LDC2015S04)
+- [SEAME 2015](https://catalog.ldc.upenn.edu/LDC2015S04)
 
 
 # Citation
