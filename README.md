@@ -1,6 +1,6 @@
-# 2025: Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models
+# Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models
 
-[Paper](https://arxiv.org/abs/2501.01034), [Datasets](https://huggingface.co/datasets/MERaLiON/Multitask-National-Speech-Corpus-v1)
+[Paper 2025](https://arxiv.org/abs/2501.01034), [Datasets](https://huggingface.co/datasets/MERaLiON/Multitask-National-Speech-Corpus-v1)
 
 ## Overview
 
